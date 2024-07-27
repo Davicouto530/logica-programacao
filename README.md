@@ -1,2 +1,2 @@
 # logica-programacao
- Aprendento e treinando a base a lógica de programação com Portugol!
+ Aprendendo e treinando a base a lógica de programação com Portugol!
